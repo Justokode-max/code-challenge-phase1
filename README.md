@@ -2,8 +2,6 @@
 ### Student Grade Generator
 - Simple console app that prompts user to input student marks ranging from 0 -100 and outputs the correct grade.
 
-
-
 # Description.
 - After the user prompts the students marks ,use a switch case statement to group the marks into the correct grades as follows;
 
