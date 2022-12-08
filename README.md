@@ -1,8 +1,8 @@
 
-### Student Grade Generator
+# Student Grade Generator
 - Simple console app that prompts user to input student marks ranging from 0 -100 and outputs the correct grade.
 
-# Description.
+## Description.
 - After the user prompts the students marks ,use a switch case statement to group the marks into the correct grades as follows;
 
        MARKS-GRADE
@@ -13,45 +13,45 @@
     -  80-100  A
 - Log grade to the user.    
 
-## Project Setup
-### User prerequisites
+### Project Setup
+#### User prerequisites
 -node v14.17.4 and above
 -npm 6.14.14 and above
 -install npm prompt-sync
 -Then install the various 
-## Technologies used
+#### Technologies used
 - Javascript.
 
-## SPEED DETECTOR
+# SPEED DETECTOR
 - Simple console app that prompts user to input student marks ranging from 0 -100 and outputs the correct grade.
 
 
-# Description.
+## Description.
 - After the user inputs the students marks ,use a if else statement to log the output ofa the points
 
-## Project Setup
-### User prerequisites
+### Project Setup
+#### User prerequisites
 -node v14.17.4 and above
 -npm 6.14.14 and above
 -install npm prompt-sync
 -Then install the various 
-## Technologies used
+#### Technologies used
 - Javascript.
 
   
 
-## NET SALARY CALCULATOR.
+# NET SALARY CALCULATOR.
 -Simple console app that prompts user to input basic salary and other parameters and outputs the correct net salary.
 
-# Description.
+## Description.
 -The console app prompts the user to input parameters and claculates and outputs all the deductions and the correct net salary.
-## Project Setup
-### User prerequisites
+### Project Setup
+#### User prerequisites
 -node v14.17.4 and above
 -npm 6.14.14 and above
 -install npm prompt-sync
 -Then install the various 
-## Technologies used
+#### Technologies used
 - Javascript.
 
 
@@ -59,7 +59,7 @@
 Justus Okode
 
 
-## License
+# License
 Copyright <2022> <Justus Okode>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
