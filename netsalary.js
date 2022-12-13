@@ -100,7 +100,7 @@ console.log("Grosspay="+grosspay);
                 let pension=0.1*400000;
                 
             }else if(pensionablePay>400000 && pensionablePay<800000){
-                let pension=(0.1*400000)+((pensionablePay-400000)*0.15)
+                let pension=(0.1*400000)+((pensionablePay-400000)*0.15);
     
             }else if(pensionablePay>800000 && pensionablePay<1200000){
                 let pension=(0.1*400000)+((pensionablePay-400000)*0.15)+((pensionablePay-800000)*0.2);
@@ -119,6 +119,5 @@ console.log("Grosspay="+grosspay);
         }      
         
     }
-     
                
               
